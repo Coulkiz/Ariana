@@ -1,2 +1,2 @@
 # Ariana
-Hello!
+Ariana vous permet de connaître les commands !
